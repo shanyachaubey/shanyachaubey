@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shanyachaubey
-- 👀 I’m interested in Data Science and its use in Extended Reality
-- 🌱 I’m currently learning Python, CS
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Machine Learning and Data Science and their application in Extended Reality
+- 🌱 I’m currently learning Python, R, Data Visualization
+- 💞️ I’m looking to collaborate on Gaming related Machine Learning projects
 - 📫 How to reach me ...
 
 <!---
